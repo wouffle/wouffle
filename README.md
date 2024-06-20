@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wouffle Shivangi sharma 
 - 👀 I’m interested in Web designing, problem solving and machine learning 
-- 🌱 I’m currently learning app developement
+- 🌱 I’m currently learning web developement
 - 💞️ I’m looking to collaborate on open source contributions and projects with enthusiatic bunches
 - 📫 How to reach me Email- shivangi4sharma@hotmail.com
 - 😄 Pronouns: she/her
