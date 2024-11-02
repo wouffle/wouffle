@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I have a love for reading—whether it's novels, classics, or exploring intriguing project ideas and topics that spark my curiosity!
 
-GSSOC(24) Postman Challenge Badges 🪶
+GSSOC(24) Postman Challenge Badge🪶
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
