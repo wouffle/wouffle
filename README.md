@@ -5,7 +5,7 @@
 - 📫 You can reach me at shivangi4sharma@hotmail.com.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I have a love for reading—whether it's novels, classics, or exploring intriguing project ideas and topics that spark my curiosity!
-- 
+
 GSSOC(24) Postman Challenge Badges 🪶
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
