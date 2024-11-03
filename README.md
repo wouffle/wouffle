@@ -4,9 +4,8 @@
  <header>👩🏻‍🎓I am currently a sophomore student at Samrat Ashok Technological Institute. I'm pursuing my Btech degree in CS engineering </header>
  <p>😎I have a major interest in Contributions, tech, and the given heading path towards the globe's innovation!<p>
  <p>✨Feel free to reach out, I would appreciate collaborating and working together to complete and achieve the withhold ideas with compassion!</p>
- <h2>Achievments 🎖️</h2>
- 
- <p>📔 Here is a preview of what I'm up to these days -</p>
+
+ <h2>📔 Here is a preview of what I'm up to these days -</h2>
 <summary>
 <p>-👀 I am strongly interested in web design, problem-solving, and machine learning.</li>
 <p>-🌱 I'm currently expanding my skills in web development.</li>
@@ -18,10 +17,16 @@
 
 <h2>GSSOC(24) & Postman Badges 🪶</h2>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+ Postman challenge badge -
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+ Explorer badge(GSSoC) -
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+ Adventurer Badge -
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+ Trailblazer Badge -
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+ Summit Seeker Badge -
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+ Champion Badge -
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </details>
