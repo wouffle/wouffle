@@ -11,7 +11,6 @@
 <p>-🌱 I'm currently expanding my skills in web development.</li>
 <p>-💞️ I'm eager to collaborate with passionate teams on open-source contributions and innovative projects.</li>
 <p>-📫 You can reach me at shivangi4sharma@hotmail.com.</li>
-<p>-😄 Pronouns: she/her.</li>
 <p>-⚡ I love reading—whether it's novels, classics, or exploring intriguing project ideas and topics that spark my curiosity! I listen to music and practice classical dance for a calm mind. </li>
 </summary>
 
