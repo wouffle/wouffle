@@ -11,8 +11,7 @@
 <p>-🌱 I'm currently expanding my skills in web development.</li>
 <p>-💞️ I'm eager to collaborate with passionate teams on open-source contributions and innovative projects.</li>
 <p>-⚡ I love reading—whether it's novels, classics, or exploring intriguing project ideas and topics that spark my curiosity! I listen to music and practice classical dance for a calm mind. </li>
-<h1>📫 You can reach me at </h1>
-<p>shivangi4shivangi4sharma@hotmail.com</p>
+<p>📫 Contact me at - shivangi4shivangi4sharma@hotmail.com</p>
 </summary>
 
 <h2>GSSOC(24) & Postman Badges 🪶</h2>
