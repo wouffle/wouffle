@@ -1,7 +1,7 @@
 <h1> Hello! 🙋🏻‍♀️
  I'm Shivangi🌻 </h1>
 <h2>🚀About me </h2>
- <header>👩🏻‍🎓I am currently a sophomore student at Samrat Ashok Technological Institute. I'm pursuing my Btech degree in CS engineering </header>
+ <header>👩🏻‍🎓I am currently a sophomore student, pursuing my Btech degree in CS engineering </header>
  <p>😎I have a major interest in Contributions, tech, and the given heading path towards the globe's innovation!<p>
  <p>✨Feel free to reach out, I would appreciate collaborating and working together to complete and achieve the withhold ideas with compassion!</p>
 
