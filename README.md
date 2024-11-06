@@ -14,7 +14,7 @@
 <p>📫 Contact me at - shivangi4sharma@hotmail.com</p>
 </summary>
 
-<h2>GSSOC(24) & Postman Badges 🪶</h2>
+<h2>GSSOC(24)-Web3 Hacks & Postman Badges 🪶</h2>
 <details>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
